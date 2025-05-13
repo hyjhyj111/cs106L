@@ -4,4 +4,4 @@ project(cs106l_assignments)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(cs106l_assignments
-        assignment1/main.cpp)
+        assignment2/main.cpp)
