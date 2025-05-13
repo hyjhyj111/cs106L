@@ -1,0 +1,27 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/Users/heyujie/cs106l-assignments/cmake-build-debug",
+	"dir-cur-src" : "/Users/heyujie/cs106l-assignments",
+	"dir-top-bld" : "/Users/heyujie/cs106l-assignments/cmake-build-debug",
+	"dir-top-src" : "/Users/heyujie/cs106l-assignments",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/Users/heyujie/cs106l-assignments/cmake-build-debug/CMakeFiles/cs106l_assignments.dir",
+	"sources" : 
+	{
+		"CMakeFiles/cs106l_assignments.dir/assignment1/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/heyujie/cs106l-assignments/assignment1/main.cpp"
+		}
+	}
+}

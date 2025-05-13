@@ -1,0 +1,11 @@
+# ninja log v6
+1	151	1747132435893786560	CMakeFiles/cs106l_assignments.dir/assignment1/main.cpp.o.ddi	9b0a0bffa713ff8
+151	161	1747132436053032431	CMakeFiles/cs106l_assignments.dir/CXX.dd	cb0f3d58d713d0c3
+151	161	1747132436053032431	/Users/heyujie/cs106l-assignments/cmake-build-debug/CMakeFiles/cs106l_assignments.dir/CXXModules.json	cb0f3d58d713d0c3
+151	161	1747132436053032431	CMakeFiles/cs106l_assignments.dir/assignment1/main.cpp.o.modmap	cb0f3d58d713d0c3
+1	133	1747132459152070329	CMakeFiles/cs106l_assignments.dir/assignment1/main.cpp.o.ddi	69ffbdc399008710
+133	140	1747132459283952897	CMakeFiles/cs106l_assignments.dir/CXX.dd	cb0f3d58d713d0c3
+133	140	1747132459283952897	/Users/heyujie/cs106l-assignments/cmake-build-debug/CMakeFiles/cs106l_assignments.dir/CXXModules.json	cb0f3d58d713d0c3
+133	140	1747132459283952897	CMakeFiles/cs106l_assignments.dir/assignment1/main.cpp.o.modmap	cb0f3d58d713d0c3
+140	589	1747132459290423963	CMakeFiles/cs106l_assignments.dir/assignment1/main.cpp.o	94c79f3bcd2ecd22
+589	637	1747132459739967986	cs106l_assignments	861c489c88fbe9eb
