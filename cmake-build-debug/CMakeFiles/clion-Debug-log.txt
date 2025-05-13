@@ -1,4 +1,0 @@
-/opt/homebrew/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DCMAKE_C_COMPILER=/opt/homebrew/bin/gcc-14 -DCMAKE_CXX_COMPILER=/opt/homebrew/bin/g++-14 -G Ninja -S /Users/heyujie/cs106l-assignments -B /Users/heyujie/cs106l-assignments/cmake-build-debug
--- Configuring done (0.0s)
--- Generating done (0.0s)
--- Build files have been written to: /Users/heyujie/cs106l-assignments/cmake-build-debug
